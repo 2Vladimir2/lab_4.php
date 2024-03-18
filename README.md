@@ -100,7 +100,8 @@ __3. Создание, обработка и валидация форм__
     4. Убедитесь, что пользователь отметил галочку “Do you agree with data
 processing?” перед отправкой формы"
 
-![image](https://github.com/S1ngle777/Lab_4_PHP/assets/128795707/03dd5a32-cd4a-433f-a514-f5fedd033f99)
+<img width="573" alt="image" src="https://github.com/2Vladimir2/lab_4.php/assets/159247721/58122075-bdeb-423a-a4c9-9023405d2ca1">
+
 
 Рисунок 1. Форма комментариев
 
@@ -200,20 +201,28 @@ __2. Получение данных с различных контроллер�
     ?>
 ```
 
-![image](https://github.com/S1ngle777/Lab_4_PHP/assets/128795707/deb322fa-030a-4dd2-ae55-ed22c8f431b1)
+<img width="335" alt="image" src="https://github.com/2Vladimir2/lab_4.php/assets/159247721/0e7fc8b6-7bdc-4d75-949e-c337592c34fe">
+
 
 
 __3. Создание, обработка и валидация форм__
 
-![image](https://github.com/S1ngle777/Lab_4_PHP/assets/128795707/3d19d0d2-44dd-405c-b534-acef570d5f5d)
+<img width="1440" alt="image" src="https://github.com/2Vladimir2/lab_4.php/assets/159247721/389826a3-b1d2-4699-a03f-4dfec1e2076b">
+
+
+
 
 Я ввёл неверно данные:
 
-![image](https://github.com/S1ngle777/Lab_4_PHP/assets/128795707/6ea585d8-b8b1-42b6-bc31-bcb3f6e17e9a)
+<img width="1440" alt="image" src="https://github.com/2Vladimir2/lab_4.php/assets/159247721/b7cd1e3a-38c2-4551-a0e6-2381cd002947">
+
+
 
 Я ввёл данные верно:
 
-![image](https://github.com/S1ngle777/Lab_4_PHP/assets/128795707/61f33386-3628-4bd2-9c0c-7766b4bfea7b)
+<img width="1440" alt="image" src="https://github.com/2Vladimir2/lab_4.php/assets/159247721/dda761bb-e97f-489a-b172-319d187fd764">
+
+
 
 `$_REQUEST` и `$_POST` - это глобальные массивы в PHP, которые содержат данные, переданные в скрипт.
 
